@@ -1,0 +1,496 @@
+body{
+    background: #FFFFFF;
+ 
+}
+.container .menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 60px;
+    padding-top: 18px;
+ 
+ }
+ 
+ .container .menu ul li a{
+     
+ text-decoration: none;
+ font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #505F98;
+
+ }
+
+ .container .navbar{
+    justify-content: space-between;
+ }
+
+ .container .navbar .landie{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    color: #37447E;
+    padding-top: 12px;
+ }
+ .container .navbar button{
+    background: #111B47;
+    border-radius: 2px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+color: #FFFFFF;
+width: 160px;
+margin-top: 18px;
+ }
+
+
+.introduce{
+    padding-top: 243px;
+}
+
+.introduce h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 66px;
+letter-spacing: 1px;
+color: #091133;
+
+}
+
+.introduce p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+color: #505F98;
+}
+
+.introduce .ui{
+    background: #111B47;
+border-radius: 2px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+margin-right: 30.15px;
+width: 189px;
+}
+
+.introduce .learn{
+    border: 2px solid #091133;
+box-sizing: border-box;
+border-radius: 2px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #091133;
+width: 189px;
+border: 2px solid #091133;
+box-sizing: border-box;
+border-radius: 2px;
+
+
+}
+
+.light-fast .light{
+ width: 540px;
+}
+
+.light h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+color: #091133;
+padding-bottom: 16px;
+}
+
+.light p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #6F7CB2;
+}
+.light .loop .img{
+    padding-top: 80px;
+}
+.light .loop{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+
+color: #091133;
+}
+.header {
+    background-image: url("../assets/img/Path.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.container .light{
+    padding-top: 160px;
+}
+
+.container .img{
+    padding-top: 109.65px;
+}
+
+.light-fast2 .girl{
+    padding-top: 122.44px;
+    padding-bottom: 130.71;
+    
+}
+
+.light-fast2 .body{
+  padding-top: 172px;
+  width: 445px;
+}
+
+.light-fast2 .body h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+color: #091133;
+padding-bottom: 16px;
+}
+
+.light-fast2 .body p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #6F7CB2;
+padding-top: 16px;
+}
+
+
+.light-fast3 .img{
+    padding-top: 91.76px;
+    padding-bottom: 114.24px;
+    
+}
+
+.light-fast3 .body{
+  padding-top: 172px;
+  width: 445px;
+  
+}
+
+.light-fast3 .body h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+color: #091133;
+padding-bottom: 16px;
+}
+
+.light-fast3 .body p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #6F7CB2;
+padding-top: 16px;
+
+}
+
+
+
+.light-fast4 .img{
+    padding-top: 141.93px;
+    padding-bottom: 284.07px;
+    
+}
+
+.light-fast4 .body{
+  padding-top: 144px;
+  width: 445px;
+  
+  
+}
+
+.light-fast4 .body h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+color: #091133;
+padding-bottom: 16px;
+}
+
+.light-fast4 .body p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #6F7CB2;
+padding-top: 16px;
+
+}
+
+.light-fast4 .body button{
+    background: #111B47;
+border-radius: 2px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.light-fast4 .body .button{
+    padding-top: 44px;
+}
+
+
+
+.body {
+    justify-content: center;
+   
+   
+    
+}
+
+
+
+.price {
+    
+    justify-content: center;
+    background: #E7ECFF;
+mix-blend-mode: normal;
+
+
+}
+
+
+.price .body h1{
+  
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+color: #091133;
+padding-top: 117px;
+}
+
+.price .body .cont{
+  max-width: 600px;
+   margin: 0 auto;
+  
+   
+}
+
+
+.price .body .cont p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #6F7CB2;
+    padding-top: 16px;
+    
+    
+
+}
+
+.price .body .dollar{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 66px;
+text-align: center;
+letter-spacing: 1px;
+color: #222F65;
+padding-top: 35.82px;
+}
+
+.price .body .ui{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #37447E;
+}
+
+.price .body .see{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #5D6970;
+padding-top: 60px;
+}
+
+.price .body .button{
+   text-align: center;
+   
+}
+
+.price .body .button button{
+    background: #111B47;
+    border-radius: 2px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 4px;
+    color: #FFFFFF;
+    height: 32px;
+
+}
+
+
+.end {
+    background: #E7ECFF;
+    padding-top: 172.14px;
+    
+}
+.end .landie{
+    justify-content: space-between;
+    display: flex;
+}
+
+
+.end .landie h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+color: #939EA4;
+padding-top: 68px;
+}
+
+.end .landie  p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 38px;
+color: #37447E;
+padding-top: 61px;
+padding-bottom: 40px
+;
+}
+
+.end .landie .button{
+padding-top: 67px;
+}
+
+.landie button{
+    background: #111B47;
+border-radius: 2px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+color: #FFFFFF;
+padding: 4px;
+width: 109px;
+}
+
+.end .line img{
+    background: #CDD1D4;
+}
+
+.end .buttonbar .men ul li{
+   
+    list-style: none;
+    display: inline-block;
+    padding-right: 60px;
+}
+.end .buttonbar .men ul{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #929ECC;
+padding-top: 20px;
+
+}
+
+.end .buttonbar{
+    justify-content: space-between;
+    display: flex;
+}
+
+.end .buttonbar .icon img{
+    padding-right: 30px;
+    padding-top: 24px;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 768px){
+    .header .navbar{
+        display: block;
+    }
+    .header .navbar menu ul,
+    .header .navbar .landie,
+    .header .navbar
+    {
+        text-align: center;
+    }
+    .introduce{
+        padding-top: 100px;
+    }
+    .introduce h1{
+        font-size: 40px;
+        line-height: 54px;
+    }
+    .introduce p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .header .navbar .menu ul li:last-child{
+        padding-right: 0px;
+    }
+    .introduce .ui{
+        margin-bottom: 16px;
+        
+    }
+}
